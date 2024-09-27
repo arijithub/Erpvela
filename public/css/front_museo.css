@@ -1,0 +1,42 @@
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-300-webfont.eot');
+ src:url('../fonts/museo-sans-300-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-300-webfont.woff') format('woff'),url('../fonts/museo-sans-300-webfont.ttf') format('truetype'),url('../fonts/museo-sans-300-webfont.svg#museo-sans-300-webfont') format('svg');
+ font-weight:normal;
+ font-style:normal;
+}
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-300-italic-webfont.eot');
+ src:url('../fonts/museo-sans-300-italic-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-300-italic-webfont.woff') format('woff'),url('../fonts/museo-sans-300-italic-webfont.ttf') format('truetype'),url('../fonts/museo-sans-300-italic-webfont.svg#museo-sans-300-italic-webfont') format('svg');
+ font-weight:normal;
+ font-style:italic;
+}
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-500-webfont.eot');
+ src:url('../fonts/museo-sans-500-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-500-webfont.woff') format('woff'),url('../fonts/museo-sans-500-webfont.ttf') format('truetype'),url('../fonts/museo-sans-500-webfont.svg#museo-sans-500-webfont') format('svg');
+ font-weight:500;
+ font-style:normal;
+}
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-500-italic-webfont.eot');
+ src:url('../fonts/museo-sans-500-italic-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-500-italic-webfont.woff') format('woff'),url('../fonts/museo-sans-500-italic-webfont.ttf') format('truetype'),url('../fonts/museo-sans-500-italic-webfont.svg#museo-sans-700-italic-webfont') format('svg');
+ font-weight:500;
+ font-style:italic;
+}
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-700-webfont.eot');
+ src:url('../fonts/museo-sans-700-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-700-webfont.woff') format('woff'),url('../fonts/museo-sans-700-webfont.ttf') format('truetype'),url('../fonts/museo-sans-700-webfont.svg#museo-sans-700-webfont') format('svg');
+ font-weight:bold;
+ font-style:normal;
+}
+@font-face {
+ font-family:'Museo Sans';
+ src:url('../fonts/museo-sans-700-italic-webfont.eot');
+ src:url('../fonts/museo-sans-700-italic-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/museo-sans-700-italic-webfont.woff') format('woff'),url('../fonts/museo-sans-700-italic-webfont.ttf') format('truetype'),url('../fonts/museo-sans-700-italic-webfont.svg#museo-sans-700-italic-webfont') format('svg');
+ font-weight:bold;
+ font-style:italic;
+}
